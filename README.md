@@ -89,6 +89,13 @@ Resultados
 - RMSE ≈ 29,600 USD
 - R² ≈ 0.885
 
+El proyecto utiliza una estructura de ramas para organizar el flujo de desarrollo y mantener la estabilidad del código en producción.
+
+main → Contiene la versión estable del proyecto, lista para ejecución o despliegue.
+Esta rama refleja el código validado, probado y documentado.
+
+dev → Es la rama de desarrollo activa, donde se implementan y prueban nuevas funcionalidades, ajustes y mejoras antes de ser integradas a main.
+
 Autores
 - Proyecto desarrollado por Giovanny Obando Duque y Javier Eduardo Guerrero Buendia  como entrega final de taller de Machine Learning.
 
