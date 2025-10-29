@@ -90,5 +90,5 @@ Resultados
 - R² ≈ 0.885
 
 Autores
-- Proyecto desarrollado por Giovanny Obando Duque y Javier Eduardo Guerrero Buendia como entrega final de taller de Machine Learning.
+- Proyecto desarrollado por Giovanny Obando Duque y Javier Eduardo Guerrero Buendia  como entrega final de taller de Machine Learning.
 
