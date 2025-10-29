@@ -8,7 +8,7 @@ import numpy as np
 df = pd.read_csv("data/raw/train.csv")
 
 # --- Título de la app ---
-st.title("Explorador interactivo y predicción de precios de casas 🏡")
+st.title("Explorador interactivo y predicción de precios de casas")
 
 st.write("Este dataset contiene información de la competencia de Kaggle *House Prices*.")
 

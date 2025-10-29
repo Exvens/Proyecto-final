@@ -3,6 +3,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.impute import SimpleImputer
 import pandas as pd
+from sklearn.decomposition import PCA
 
 df = pd.read_csv("data/raw/train.csv")
 
@@ -27,12 +28,7 @@ preprocessor = ColumnTransformer(
 )
 
 """ desde aqui """
-import pandas as pd
-from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
-from sklearn.impute import SimpleImputer
-from sklearn.decomposition import PCA
+
 
 # Cargar datos
 df = pd.read_csv("data/raw/train.csv")
